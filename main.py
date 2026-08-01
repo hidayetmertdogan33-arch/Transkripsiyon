@@ -4,7 +4,7 @@ import scipy.io.wavfile as wav
 import speech_recognition as sr
 from deep_translator import GoogleTranslator   # googletrans yerine bu
 
-print("//=//imedo Ses Tanıma Ve Çevirme Uygulamasına Hoşgeldiniz")
+print("Ses Tanıma Ve Çevirme Uygulamasına Hoşgeldiniz")
 print("Bu uygulama, konuşmanızı kaydedecek ve ardından metne dönüştürecektir. Daha sonra, metni başka bir dile çevirebilirsiniz. Lütfen konuşmaya başlamadan önce mikrofonunuzun çalıştığından emin olun.")
 print("Lisans bilgileri için LICENSE dosyasını okuyun. README dosyasında önemli bilgileri, yüklenecek dosyaları ve .")
 
